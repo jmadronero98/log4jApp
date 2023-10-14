@@ -1,0 +1,10 @@
+[DEBUG] 2023-10-14 20:12:44.068 [main] Log4jSampleApp - This is debug message
+[INFO ] 2023-10-14 20:12:44.068 [main] Log4jSampleApp - This is an information message
+[WARN ] 2023-10-14 20:12:44.068 [main] Log4jSampleApp - This a warning message
+[ERROR] 2023-10-14 20:12:44.068 [main] Log4jSampleApp - This a an error message
+[FATAL] 2023-10-14 20:12:44.068 [main] Log4jSampleApp - This is a fatal message
+[DEBUG] 2023-10-14 20:14:04.907 [main] Log4jSampleApp - This is debug message
+[INFO ] 2023-10-14 20:14:04.907 [main] Log4jSampleApp - This is an information message
+[WARN ] 2023-10-14 20:14:04.907 [main] Log4jSampleApp - This a warning message
+[ERROR] 2023-10-14 20:14:04.907 [main] Log4jSampleApp - This a an error message
+[FATAL] 2023-10-14 20:14:04.907 [main] Log4jSampleApp - This is a fatal message

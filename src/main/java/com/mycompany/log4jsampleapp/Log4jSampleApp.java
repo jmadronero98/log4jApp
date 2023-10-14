@@ -20,6 +20,5 @@ public class Log4jSampleApp {
         logger.error("This a an error message");
         logger.fatal("This is a fatal message");
         
-                        
     }
 }
